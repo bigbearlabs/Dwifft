@@ -246,9 +246,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
+				51080B8C1D366C7100C22E0F /* DwifftMac */,
 				041EBB911B89679200E113B3 /* Dwifft */,
 				041EBB9C1B89679200E113B3 /* DwifftTests */,
-				51080B8C1D366C7100C22E0F /* DwifftMac */,
 			);
 		};
 /* End PBXProject section */
