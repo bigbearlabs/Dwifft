@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -17,20 +17,6 @@
                BlueprintIdentifier = "041EBB911B89679200E113B3"
                BuildableName = "Dwifft.framework"
                BlueprintName = "Dwifft"
-               ReferencedContainer = "container:Dwifft.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "041EBB9C1B89679200E113B3"
-               BuildableName = "DwifftTests.xctest"
-               BlueprintName = "DwifftTests"
                ReferencedContainer = "container:Dwifft.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
