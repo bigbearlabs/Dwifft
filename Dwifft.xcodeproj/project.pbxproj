@@ -230,7 +230,7 @@
 					};
 					51080B8C1D366C7100C22E0F = {
 						CreatedOnToolsVersion = 7.3.1;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1000;
 					};
 				};
 			};
